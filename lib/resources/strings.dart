@@ -1,0 +1,13 @@
+const String nameApp = "Chương trình bán sách Online";
+const String nameBill = "Thông tin hóa đơn";
+const String nameStatistical = "Thông tin thống kê";
+const String nameBtnCalMoney = "TÍNH TT";
+const String nameBtnNext = "TIẾP";
+const String nameBtnStatistical = "THỐNG KÊ";
+const String nameLabelTotalClients = "Tổng số KH";
+const String nameLabelTotalClientsVip = "Tổng số KH là VIP";
+const String nameLabelTotalRevenue = "Tổng doanh thu";
+const String nameLabelNotification = "THÔNG BÁO";
+const String nameLabelAccept = "Đồng Ý";
+const String nameLabelCancel = "Hủy bỏ";
+const double fontSizeCustom = 16;
