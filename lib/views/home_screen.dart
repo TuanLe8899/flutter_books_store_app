@@ -255,6 +255,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         setState(() {
                           if((controllerClient!.text != '') && (controllerNumberBooks!.text != '') && (totalMoney != 0.0)) {
                             if(isClientVip) {
+                              incrementClients();
                               incrementClientsVip();
                             } else {
                               incrementClients();
